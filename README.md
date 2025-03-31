@@ -1,10 +1,10 @@
-Role-Based JWT Authentication (Angular + .NET Core)
+# Role-Based JWT Authentication (Angular + .NET Core)
 
-📌 Project Overview
-
+## 📌 Project Overview
 This project implements JWT-based authentication and role-based authorization using ASP.NET Core Web API for the backend and Angular for the frontend. It allows users to log in, manage authentication tokens, and access protected routes based on roles (e.g., Admin, User).
 
-🔐 Authentication & Authorization
+
+## 🔐 Authentication & Authorization
 
 Users receive a JWT Token upon login.
 
@@ -16,21 +16,23 @@ When the JWT token expires, the backend automatically generates a new token usin
 
 If the refresh token also expires, the backend generates a new refresh token to ensure seamless authentication.
 
-🏗 Tech Stack
 
-Frontend: Angular 18 (Standalone APIs, Reactive Forms, HTTP Interceptors)
+## 🏗 Tech Stack
 
-Backend: ASP.NET Core Web API (.NET 6/7)
+**Frontend**: Angular 18 (Standalone APIs, Reactive Forms, HTTP Interceptors)
 
-Database: MSSQL (Entity Framework Core - Code First)
+**Backend**: ASP.NET Core Web API (.NET 6/7)
 
-Authentication: JWT (JSON Web Token)
+**Database**: MSSQL (Entity Framework Core - Code First)
 
-Authorization: Role-Based Access Control (RBAC)
+**Authentication**: JWT (JSON Web Token)
 
-Styling & UI: Bootstrap, SweetAlert2
+**Authorization**: Role-Based Access Control (RBAC)
 
-✨ Features
+**Styling & UI**: Bootstrap, SweetAlert2
+
+
+## ✨ Features
 
 ✅ User authentication using JWT Tokens
 
@@ -47,7 +49,7 @@ Styling & UI: Bootstrap, SweetAlert2
 ✅ Login and Registration UI with SweetAlert2 Notifications
 
 
-🎯 Future Enhancements for Similar Projects
+## 🎯 Future Enhancements for Similar Projects
 
 Single Sign-On (SSO) Integration (Google, GitHub, Facebook)
 
