@@ -62,6 +62,7 @@ This project implements JWT-based authentication and role-based authorization us
 * Microservices Architecture for scalability
 
 
-
+### System Architecture 
+![Image](https://github.com/user-attachments/assets/f4eae86a-fca4-49d9-8927-ac10bba0aeee)
 
 
