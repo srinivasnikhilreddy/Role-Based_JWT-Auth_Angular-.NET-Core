@@ -85,7 +85,7 @@ This project implements JWT-based authentication and role-based authorization us
 ![Image](https://github.com/user-attachments/assets/eccd05d3-04d3-4a76-95de-8ea3fb18e5fb)
 
 
-### Admin got Access:
+### Got access to Admin data:
 ![Image](https://github.com/user-attachments/assets/50a0a000-3b77-4fa3-88e9-cfa8843d0639)
 
 
@@ -98,7 +98,7 @@ This project implements JWT-based authentication and role-based authorization us
 ![Image](https://github.com/user-attachments/assets/99303e2e-53d6-4a00-a4f2-e3be86e514f9)
 
 
-## Admin Access
+## Got access to Admin data
 ![Image](https://github.com/user-attachments/assets/7ea03b79-beec-4397-bf10-dd42a69b948d)
 
 
