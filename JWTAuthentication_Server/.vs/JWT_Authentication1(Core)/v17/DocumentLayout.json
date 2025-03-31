@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|d:\\nikhilreddy\\.net\\others\\3)jwt\\jwt_authentication1(core)\\jwt_authentication1(core)\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|solutionrelative:jwt_authentication1(core)\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|d:\\nikhilreddy\\.net\\others\\3)jwt\\jwt_authentication1(core)\\jwt_authentication1(core)\\controllers\\rolebasedauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|solutionrelative:jwt_authentication1(core)\\controllers\\rolebasedauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|d:\\nikhilreddy\\.net\\others\\3)jwt\\jwt_authentication1(core)\\jwt_authentication1(core)\\models\\refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|solutionrelative:jwt_authentication1(core)\\models\\refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|d:\\nikhilreddy\\.net\\others\\3)jwt\\jwt_authentication1(core)\\jwt_authentication1(core)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|solutionrelative:jwt_authentication1(core)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|d:\\nikhilreddy\\.net\\others\\3)jwt\\jwt_authentication1(core)\\jwt_authentication1(core)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|solutionrelative:jwt_authentication1(core)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|d:\\nikhilreddy\\.net\\others\\3)jwt\\jwt_authentication1(core)\\jwt_authentication1(core)\\contexts\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|solutionrelative:jwt_authentication1(core)\\contexts\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|d:\\nikhilreddy\\.net\\others\\3)jwt\\jwt_authentication1(core)\\jwt_authentication1(core)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|solutionrelative:jwt_authentication1(core)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|d:\\nikhilreddy\\.net\\others\\3)jwt\\jwt_authentication1(core)\\jwt_authentication1(core)\\migrations\\20250208060625_refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69C20FC-02AB-4CAF-B6AD-69544961130C}|JWT_Authentication1(Core)\\JWT_Authentication1(Core).csproj|solutionrelative:jwt_authentication1(core)\\migrations\\20250208060625_refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250208060625_refresh.cs",
+              "DocumentMoniker": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Migrations\\20250208060625_refresh.cs",
+              "RelativeDocumentMoniker": "JWT_Authentication1(Core)\\Migrations\\20250208060625_refresh.cs",
+              "ToolTip": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Migrations\\20250208060625_refresh.cs",
+              "RelativeToolTip": "JWT_Authentication1(Core)\\Migrations\\20250208060625_refresh.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:06:26.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Refresh.cs",
+              "DocumentMoniker": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Models\\Refresh.cs",
+              "RelativeDocumentMoniker": "JWT_Authentication1(Core)\\Models\\Refresh.cs",
+              "ToolTip": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Models\\Refresh.cs",
+              "RelativeToolTip": "JWT_Authentication1(Core)\\Models\\Refresh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:45:21.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Contexts\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "JWT_Authentication1(Core)\\Contexts\\MyDbContext.cs",
+              "ToolTip": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Contexts\\MyDbContext.cs",
+              "RelativeToolTip": "JWT_Authentication1(Core)\\Contexts\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:39:43.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWT_Authentication1(Core)\\Models\\User.cs",
+              "ToolTip": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Models\\User.cs",
+              "RelativeToolTip": "JWT_Authentication1(Core)\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:40:59.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleBasedAuthController.cs",
+              "DocumentMoniker": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Controllers\\RoleBasedAuthController.cs",
+              "RelativeDocumentMoniker": "JWT_Authentication1(Core)\\Controllers\\RoleBasedAuthController.cs",
+              "ToolTip": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Controllers\\RoleBasedAuthController.cs",
+              "RelativeToolTip": "JWT_Authentication1(Core)\\Controllers\\RoleBasedAuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:17:37.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT_Authentication1(Core)\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT_Authentication1(Core)\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAzwCMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:51:58.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_Authentication1(Core)\\appsettings.json",
+              "ToolTip": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\appsettings.json",
+              "RelativeToolTip": "JWT_Authentication1(Core)\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T18:35:33.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_Authentication1(Core)\\Program.cs",
+              "ToolTip": "D:\\NikhilReddy\\.NET\\OTHERS\\3)JWT\\JWT_Authentication1(Core)\\JWT_Authentication1(Core)\\Program.cs",
+              "RelativeToolTip": "JWT_Authentication1(Core)\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:41:58.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
