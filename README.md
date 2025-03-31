@@ -6,15 +6,15 @@ This project implements JWT-based authentication and role-based authorization us
 
 ## 🔐 Authentication & Authorization
 
-Users receive a JWT Token upon login.
+* Users receive a JWT Token upon login.
 
-Angular stores the token in localStorage and automatically sends it with API requests using an HTTP Interceptor.
+* Angular stores the token in localStorage and automatically sends it with API requests using an HTTP Interceptor.
 
-The ASP.NET Core middleware validates tokens and checks roles before granting access.
+* The ASP.NET Core middleware validates tokens and checks roles before granting access.
 
-When the JWT token expires, the backend automatically generates a new token using the refresh token.
+* When the JWT token expires, the backend automatically generates a new token using the refresh token.
 
-If the refresh token also expires, the backend generates a new refresh token to ensure seamless authentication.
+* If the refresh token also expires, the backend generates a new refresh token to ensure seamless authentication.
 
 
 ## 🏗 Tech Stack
@@ -51,12 +51,17 @@ If the refresh token also expires, the backend generates a new refresh token to 
 
 ## 🎯 Future Enhancements for Similar Projects
 
-Single Sign-On (SSO) Integration (Google, GitHub, Facebook)
+* Single Sign-On (SSO) Integration (Google, GitHub, Facebook)
 
-OAuth2 Implementation for secure third-party authentication
+* OAuth2 Implementation for secure third-party authentication
 
-Multi-Factor Authentication (MFA) for enhanced security
+* Multi-Factor Authentication (MFA) for enhanced security
 
-Logging & Monitoring using tools like Serilog & ELK Stack
+* Logging & Monitoring using tools like Serilog & ELK Stack
 
-Microservices Architecture for scalability
+* Microservices Architecture for scalability
+
+
+
+
+
